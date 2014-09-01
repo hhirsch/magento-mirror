@@ -4,4 +4,7 @@
 "type": "magento-core",
 "description": "Magento Core",
 "homepage": "http://www.magentocommerce.com"
+"require": {
+"magento-hackathon/magento-composer-installer": "*"
+}
 }
