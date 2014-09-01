@@ -1,0 +1,10 @@
+{	
+"name": "magento/core",
+"license": "OSL-3.0",
+"type": "magento-core",
+"description": "Magento Core",
+"homepage": "http://www.magentocommerce.com",
+"require": {
+"magento-hackathon/magento-composer-installer": "*"
+}
+}
